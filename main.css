@@ -1,0 +1,42 @@
+/* ========================================
+ * CSS written here will override Tachyons
+ * ======================================== */
+
+ .hot {background: }
+
+ .cold {background: }
+
+ .breezy{background-image: url(/breezy.png);
+  background: cover;}
+
+
+
+
+.snow{background-image: url(/snow.png);
+background:cover;}
+
+.rain{background-image: url(/rain.png);
+ background: cover;}
+
+.clouds{background-image: url(/cloudy.png);
+ background: cover;}
+
+.drizzle{background-image: url(/drizzle.png);
+ background: cover;}
+
+ .thunderstorm{background-image: url(/thunderstorm.png);
+  background: cover;}
+
+.clear {background-image: url(/clear.png);
+   background: cover;}
+
+ .atmosphere{background-image: url(/atmosphere.png);
+  background: cover;}
+
+
+
+
+
+
+
+.windy
